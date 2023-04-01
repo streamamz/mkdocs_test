@@ -1,2 +1,2 @@
 # mkdocs_test
-test for MkDocs
+MkDocsとGithub Pagesをもちいたサイト作成のテスト
